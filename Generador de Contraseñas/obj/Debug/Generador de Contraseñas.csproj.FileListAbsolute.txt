@@ -1,0 +1,8 @@
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.csproj.AssemblyReference.cache
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.csproj.SuggestedBindingRedirects.cache
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\Generador de Contraseñas.exe.config
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\Generador de Contraseñas.exe
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\bin\Debug\Generador de Contraseñas.pdb
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.exe
+C:\Users\RADIO\source\repos\Generador de Contraseñas\Generador de Contraseñas\obj\Debug\Generador de Contraseñas.pdb
